@@ -1,4 +1,1 @@
-Blogger-Plugins
-===============
-
-Blogger Plugins was usually use for blogspot user.
+#Blogger-Plugins===============Blogger Plugins was usually use for blogspot user.Folder ini merupakan repository pengamanan script-script yang dibuat oleh [Blogger Tune-Up](http://modification-blog.blogspot.com/). Sengaja dibuat dalam satu folder karena memang bersifat umum. Kadang script yang tersedia sulit untuk dibuat demo secara offline, maka disatukan. Dan terkadang script tersebut berdiri sendiri, jadi kalau dibuat masing-masing repository justru terkesan berantakan.##PenggunaanAnda bebas untuk menggunakan dan memodifikasi script yang tersedia namun dengan tetap merujuk sumbernya. Dimohon dengan sangat seandainya anda melakukan modifikasi script untuk memberitahukan kami sehingga script-script tersebut bisa bermanfaat dan berkembang lebih baik. Terima kasih atas kerjasamanya dan perhatiannya.Best Regard,[Hendriono](http://www.hendriono.web.id/)
