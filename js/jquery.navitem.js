@@ -21,7 +21,7 @@ function ambilJudNav(json) {
     }
 }
 //Fungsi penulisan sekumpulan judul feed dengan mengambilnya dari fungsi sebelumnya 'ambilJudNav'
-document.write('<script type="text/javascript" src="http://' + window.location.hostname + '/feeds/posts/summary?redirect=false&max-results=5&alt=json-in-script&callback=ambilJudNav"></' + 'script>');
+document.write('<script type="text/javascript" src="http://' + window.location.hostname + '/feeds/posts/summary?redirect=false&max-results=500&alt=json-in-script&callback=ambilJudNav"></' + 'script>');
 //Fungsi Pengambilan Anchor, Pengecekan URL dan Penggantian beberapa simbol
 function JudulURL(anchor) {
     var linkurl = anchor.match(/\/([^\/_]+)(_.*)?\.html/);
